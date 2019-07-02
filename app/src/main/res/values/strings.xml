@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IntegrationOCV</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="mean_blurring">Mean Blurring</string>
+    <string name="title_activity_mean_blur">MeanBlurActivity</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="mean_blur">Mean Blur</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
